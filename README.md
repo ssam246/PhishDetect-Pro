@@ -37,7 +37,7 @@ PhishDetect Pro is a powerful Python-based tool designed to detect and analyze p
 
 1. **Clone the Repository**:
    ```bash
-   git clone [repository URL]
+   git clone https://github.com/ssam246/PhishDetect-Pro
    cd phishdetect-pro
    ```
 
